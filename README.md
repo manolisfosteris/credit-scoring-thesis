@@ -1,6 +1,6 @@
 # Credit Scoring Evaluation Using Machine Learning
 
-**Diploma Thesis — National Technical University of Athens (NTUA)**  
+**Diploma Thesis - National Technical University of Athens (NTUA)**  
 School of Applied Mathematical and Physical Sciences, Department of Mathematics  
 September 2022
 
