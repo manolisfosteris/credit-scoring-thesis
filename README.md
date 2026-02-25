@@ -74,7 +74,7 @@ The dataset consists of 366 observations split into a training set (302) and tes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/credit-scoring-thesis.git
+   git clone https://github.com/manolisfosteris/credit-scoring-thesis.git
    ```
 2. Open `code/credit_scoring_analysis.R` in RStudio
 3. Install required packages:
