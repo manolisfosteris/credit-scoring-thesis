@@ -89,16 +89,5 @@ The dataset consists of 366 observations split into a training set (302) and tes
 
 This work is licensed for non-commercial, educational, and research purposes. See [LICENSE](LICENSE) for details.
 
-## Citation
 
-If you use or reference this work, please cite:
 
-```
-Fosteris, E. (2022). Credit Scoring Evaluation Using Machine Learning
-(Diploma Thesis). National Technical University of Athens, School of
-Applied Mathematical and Physical Sciences.
-```
-
----
-
-*Στη Μνήμη του Πατέρα μου — In Memory of my Father*
