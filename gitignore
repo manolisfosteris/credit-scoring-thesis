@@ -1,0 +1,16 @@
+# R files
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj.user
+
+# Data files (not shared publicly)
+data/
+*.csv
+*.tsv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
