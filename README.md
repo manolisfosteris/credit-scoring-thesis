@@ -85,9 +85,6 @@ The dataset consists of 366 observations split into a training set (302) and tes
    ```
 4. Run the script (note: the original dataset is not publicly included due to privacy considerations)
 
-## License
-
-This work is licensed for non-commercial, educational, and research purposes. See [LICENSE](LICENSE) for details.
 
 
 
