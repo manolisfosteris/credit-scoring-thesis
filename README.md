@@ -32,7 +32,7 @@ The results demonstrate that all techniques were able to explain the data to a s
 │   └── credit_scoring_analysis.R    # Full R analysis code
 ├── docs/
 │   └── Emmanouil_Fosteris_Thesis_Final.pdf  # Full thesis document (in Greek)
-└── LICENSE
+
 ```
 
 ## Key Features & Variables
